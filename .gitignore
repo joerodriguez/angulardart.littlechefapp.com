@@ -12,3 +12,8 @@ packages
 
 # Include when developing application packages.
 pubspec.lock
+
+npm-debug.log
+.idea/
+node_modules/
+*.iml
