@@ -5,3 +5,10 @@ littlechefapp.com with AngularDart
 
 - Dart
 - Dartium
+- Node
+
+## Running Tests
+
+- npm install
+- sudo npm install -g karma-cli
+- karma start
